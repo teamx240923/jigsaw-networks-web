@@ -48,13 +48,13 @@ export default function FounderSection() {
             className="space-y-6"
           >
             {/* Profile Header */}
-            <div className="flex items-center space-x-4 mb-8">
+            <div className="flex items-start space-x-4 mb-8">
               <div className="w-20 h-20 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full flex items-center justify-center">
                 <span className="text-2xl font-bold text-white">RA</span>
               </div>
               <div>
                 <h3 className="text-3xl font-bold text-gray-900">Ritika Agarwal</h3>
-                <p className="text-lg text-gray-600">Founder & CEO</p>
+                <p className="text-lg text-gray-600">Founder</p>
                 <motion.a
                   whileHover={{ scale: 1.05 }}
                   href="https://www.linkedin.com/in/ritika-agarwal-2407ra/"
