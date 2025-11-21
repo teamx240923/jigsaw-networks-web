@@ -109,7 +109,7 @@ export default function RootLayout({
             "@type": "SoftwareApplication",
             "name": "Tracksure",
             "description": "Event tracking made reliable. Real-time validation, SDK-based instrumentation, and centralized dashboards for consistent, accurate event data.",
-            "url": "https://tracksure.io",
+            "url": "",
             "applicationCategory": "Analytics Software",
             "operatingSystem": "Web-based"
           }
@@ -120,7 +120,7 @@ export default function RootLayout({
             "@type": "SoftwareApplication",
             "name": "NoahOps",
             "description": "Cloud made simple. One-click infrastructure management across AWS, GCP, and Azure with role-based access and automated workflows.",
-            "url": "https://noahops.com",
+            "url": "",
             "applicationCategory": "Cloud Management Software",
             "operatingSystem": "Web-based"
           }
@@ -131,7 +131,7 @@ export default function RootLayout({
             "@type": "SoftwareApplication", 
             "name": "NimbleBiz",
             "description": "Your 24/7 AI sales agent. AI-powered lead generation agent that captures, qualifies, and engages prospects across web, WhatsApp, and Instagram.",
-            "url": "https://nimblebiz.ai",
+            "url": "",
             "applicationCategory": "Sales Automation Software",
             "operatingSystem": "Web-based"
           }
@@ -142,7 +142,7 @@ export default function RootLayout({
             "@type": "SoftwareApplication",
             "name": "NimbleInsights", 
             "description": "Your 24/7 AI data analyst. AI-driven insights platform that answers business questions in plain English and delivers instant analytics without dashboards.",
-            "url": "https://nimbleinsights.ai",
+            "url": "",
             "applicationCategory": "Business Intelligence Software",
             "operatingSystem": "Web-based"
           }
