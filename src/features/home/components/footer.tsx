@@ -4,10 +4,10 @@ import { motion } from 'framer-motion';
 import { ExternalLink } from 'lucide-react';
 
 const productLinks = [
-  { name: 'Tracksure', url: 'https://tracksure.io' },
-  { name: 'NoahOps', url: 'https://noahops.com' },
-  { name: 'NimbleBiz', url: 'https://nimblebiz.ai' },
-  { name: 'NimbleInsights', url: 'https://nimbleinsights.ai' },
+  { name: 'Tracksure', url: '' },
+  { name: 'NoahOps', url: '' },
+  { name: 'NimbleBiz', url: '' },
+  { name: 'NimbleInsights', url: '' },
 ];
 
 const companyLinks = [
