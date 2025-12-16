@@ -16,6 +16,7 @@ const companyLinks = [
   { name: 'Contact', href: 'mailto:help.jigsawnetworks@gmail.com' },
   { name: 'Privacy Policy', href: '/privacy-policy' },
   { name: 'Terms of Use', href: '/terms-of-use' },
+  { name: 'Delete Account', href: '/delete-account' },
 ];
 
 export default function Footer() {
